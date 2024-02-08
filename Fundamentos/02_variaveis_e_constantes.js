@@ -14,3 +14,13 @@ console.log(a, b);
 const c = 5;
 // c = 50 Não é possivel reatribuir um valor a uma contstante
 console.log(c);
+
+
+console.log(`
+const: constante o valor e o tipo nunca muda
+var: var o valor pode ser alterado porém o tipo nunca muda
+let: let o valor e o tipo podem ser alterado sempre.
+`);
+
+// site lógica
+//https://rachacuca.com.br/
